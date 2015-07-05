@@ -1,0 +1,50 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-7-openjdk-amd64/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.8.2.jar:/usr/share/bluej/userlib/pi4j-device.jar:/usr/share/bluej/userlib/pi4j-core.jar:/usr/share/bluej/userlib/pi4j-service.jar:/usr/share/bluej/userlib/pi4j-gpio-extension.jar:/home/alba/IIP/ejerciciosTemas123
+-d
+/home/alba/IIP/ejerciciosTemas123/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/usr/share/bluej/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/home/alba/IIP/ejerciciosTemas123/Vestido.java
+<---- end of javadoc command ---->
+Loading source file /home/alba/IIP/ejerciciosTemas123/Vestido.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_79
+Building tree for all the packages and classes...
+Generating /home/alba/IIP/ejerciciosTemas123/doc/Vestido.html...
+/home/alba/IIP/ejerciciosTemas123/Vestido.java:23: warning - @param argument "double" is not a parameter name.
+/home/alba/IIP/ejerciciosTemas123/Vestido.java:23: warning - @param argument "char" is not a parameter name.
+/home/alba/IIP/ejerciciosTemas123/Vestido.java:23: warning - @param argument "boolean" is not a parameter name.
+/home/alba/IIP/ejerciciosTemas123/Vestido.java:78: warning - @param argument "int" is not a parameter name.
+/home/alba/IIP/ejerciciosTemas123/Vestido.java:86: warning - @param argument "double" is not a parameter name.
+/home/alba/IIP/ejerciciosTemas123/Vestido.java:70: warning - @param argument "boolean" is not a parameter name.
+/home/alba/IIP/ejerciciosTemas123/Vestido.java:40: warning - @param argument "double" is not a parameter name.
+/home/alba/IIP/ejerciciosTemas123/Vestido.java:55: warning - @char is an unknown tag.
+Generating /home/alba/IIP/ejerciciosTemas123/doc/package-frame.html...
+Generating /home/alba/IIP/ejerciciosTemas123/doc/package-summary.html...
+Generating /home/alba/IIP/ejerciciosTemas123/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /home/alba/IIP/ejerciciosTemas123/doc/allclasses-frame.html...
+Generating /home/alba/IIP/ejerciciosTemas123/doc/allclasses-noframe.html...
+Generating /home/alba/IIP/ejerciciosTemas123/doc/index.html...
+Generating /home/alba/IIP/ejerciciosTemas123/doc/stylesheet.css...
+8 warnings

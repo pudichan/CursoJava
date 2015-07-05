@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=nombre\ edad\ notaTeoria\ notaPractica\ esChica
+comment0.target=Alumno(java.lang.String,\ int,\ double,\ double,\ boolean)
+comment0.text=\n\ Construye\ un\ Alumno\ con\ los\ siguientes\ parametros\:\n\ @param\ String\ \ nombre\ \n\ @param\ int\ \ \ \ \ edad\n\ @param\ double\ \ notaTeoria\n\ @param\ double\ \ notaPractica\n\ @param\ boolean\ esChica\n
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment1.text=\n\ Getter\ del\ atributo\ nombre.\n
+comment2.params=nuevoNombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\n\ Setter\ del\ atributo\ nombre.\n
+comment3.params=
+comment3.target=int\ getEdad()
+comment3.text=\n\ Getter\ del\ atributo\ edad.\n
+comment4.params=nuevaEdad
+comment4.target=void\ setEdad(int)
+comment4.text=\n\ Setter\ del\ atributo\ edad.\n
+comment5.params=
+comment5.target=double\ calcularNotaFinal()
+comment5.text=\n\ Calcula\ la\ nota\ final\ del\ alumno.\n
+comment6.params=notaUmbral
+comment6.target=boolean\ estaAprobado(double)
+comment6.text=\n\ Indica\ si\ el\ alumno\ ha\ aprobado\ o\ no.\n
+numComments=7
